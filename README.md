@@ -11,5 +11,5 @@ Repo ini menyediakan data GeoJSON untuk 38 provinsi di Indonesia, mencakup batas
 
 ## Sumber Data
 
-Data ini diambil dari Badan Informasi GeoSpasial
+Data SHP diambil dari Badan Informasi GeoSpasial geoservice.big.go.id
 
